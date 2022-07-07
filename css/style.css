@@ -6,8 +6,9 @@
 
 .title {
     color: violet;
-    text-align: center;
+    margin-left: 600px;
     margin-top: 40px;
+
 }
 
 .paragrafo {
@@ -23,7 +24,11 @@
     width: 300px;
     height: 90px;
     margin-top: 50px;
-    margin-left: 100px;
+    margin-left: 150px;
+    border-radius: 5px;
+
+
+
 
 }
 
@@ -43,4 +48,11 @@ span {
 
     color: cornflowerblue;
     margin-bottom: 200px;
+}
+
+.clearbox {
+    content: '';
+    display: table;
+    float: left;
+
 }
