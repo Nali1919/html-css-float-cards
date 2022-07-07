@@ -3,3 +3,16 @@
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    color: violet;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.paragrafo {
+    margin-top: 40px;
+    width: 800px;
+    text-align: center;
+    margin-left: 300px;
+}
