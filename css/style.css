@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+
 .title {
     color: violet;
     margin-left: 550px;
@@ -52,30 +53,37 @@ span {
 .clearbox {
     content: '';
     display: table;
-    float: left;
+    float: both;
 
 }
 
 .team1 {
-    margin-left: 240px;
+    margin-left: 200px;
+    float: left;
 }
 
 .team2 {
     margin-left: 10px;
+    float: left;
 }
 
 .team3 {
     margin-left: 10px;
+    float: left;
 }
 
 .team4 {
-    margin-left: 240px;
+    margin-left: 200px;
+    float: left;
 }
 
 .team5 {
     margin-left: 10px;
+    float: left;
 }
+
 
 .team6 {
     margin-left: 10px;
+    float: left;
 }
